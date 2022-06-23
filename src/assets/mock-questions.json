@@ -1,0 +1,55 @@
+[
+  {
+    "authorLogin": "Admin",
+    "id": "1",
+    "createdDate": "Mon Jun 21 2022 20:46:20 GMT+0300 (Eastern European Summer Time)",
+    "questionText": "What drink do you like the most?",
+    "totalAnswerers": 0,
+    "answers": [
+      {
+        "id": "1",
+        "answerText": "Tea",
+        "answerers": []
+      },
+      {
+        "id": "2",
+        "answerText": "Coffee",
+        "answerers": []
+      },
+      {
+        "id": "3",
+        "answerText": "Lemonade",
+        "answerers": []
+      },
+      {
+        "id": "4",
+        "answerText": "Juice",
+        "answerers": []
+      }
+    ]
+  },
+  {
+    "authorLogin": "Admin",
+    "id": "2",
+    "createdDate": "Mon Jun 21 2022 20:48:20 GMT+0300 (Eastern European Summer Time)",
+    "questionText": "What do you prefer?",
+    "totalAnswerers": 1,
+    "answers": [
+      {
+        "id": "1",
+        "answerText": "Pizza",
+        "answerers": []
+      },
+      {
+        "id": "2",
+        "answerText": "Sushi",
+        "answerers": ["admin"]
+      },
+      {
+        "id": "3",
+        "answerText": "Burger",
+        "answerers": []
+      }
+    ]
+  }
+]

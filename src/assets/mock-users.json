@@ -1,0 +1,17 @@
+[
+  {
+    "login": "Admin",
+    "password": "admin",
+    "birthdate": "2000-02-26"
+  },
+  {
+    "login": "User",
+    "password": "123",
+    "birthdate": "2001-05-12"
+  },
+  {
+    "login": "Bob",
+    "password": "Bob2022",
+    "birthdate": "2004-09-06"
+  }
+]
